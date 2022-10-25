@@ -1,0 +1,182 @@
+[
+    {
+      "_id": "6356ecd4f4626c9dbaf4990e",
+      "courseName": "Python",
+      "courseDetail": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021.Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+      "alreadyEnrolled": 857,
+      "price": "$3,091.16",
+      "picture": "./image/courseImage/img-1.png",
+      "courseDuration": 6,
+      "instructorName": "Jefferson Travis",
+      "publishedDate": "2022-02-09T09:28:20 +05:00",
+      "instructor": [
+        {
+          "id": 1,
+          "name": "Jefferson Travis",
+          "rating": 4.2,
+          "about": "Jefferson Travis is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "6356ecd46dba0f860c80f67e",
+      "courseName": "Java",
+      "courseDetail": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.One major advantage of developing software with Java is its portability. Once you have written code for a Java program on a notebook computer, it is very easy to move the code to a mobile device. When the language was invented in 1991 by James Gosling of Sun Microsystems (later acquired by Oracle), the primary goal was to be able to 'write once, run anywhere.' It's also important to understand that Java is much different from JavaScript. Javascript does not need to be compiled, while Java code does need to be compiled. Also, Javascript only runs on web browsers while Java can be run anywhere.",
+      "alreadyEnrolled": 876,
+      "price": "$2,998.70",
+      "picture": "./image/courseImage/img-2.png",
+      "courseDuration": 7,
+      "instructorName": "Myrtle Acosta",
+      "publishedDate": "2014-10-08T04:29:47 +04:00",
+      "instructor": [
+        {
+          "id": 2,
+          "name": "Myrtle Acosta",
+          "rating": 4.1,
+          "about": "Myrtle Acosta is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-2.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "6356ecd469d9b18db14a3caf",
+      "courseName": "C++",
+      "courseDetail": "C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented paradigm. It is an imperative and a compiled language. Simple: It is a simple language in the sense that programs can be broken down into logical units and parts, has a rich library support and a variety of data-types.Machine Independent but Platform Dependent: A C++ executable is not platform-independent (compiled programs on Linux won’t run on Windows), however they are machine independent.Mid-level language: It is a mid-level language as we can do both systems-programming (drivers, kernels, networking etc.) and build large-scale user applications (Media Players, Photoshop, Game Engines etc. Rich library support: Has a rich library support (Both standard ~ built-in data structures, algorithms etc.) as well 3rd party libraries (e.g. Boost libraries) for fast and rapid development.",
+      "alreadyEnrolled": 771,
+      "price": "$2,975.97",
+      "picture": "./image/courseImage/img-3.png",
+      "courseDuration": 5,
+      "instructorName": "Sheena Key",
+      "publishedDate": "2017-02-23T01:45:06 +05:00",
+      "instructor": [
+        {
+          "id": 3,
+          "name": "Sheena Key",
+          "rating": 4.3,
+          "about": "Sheena Key is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-3.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "6356ecd49fd726783b29b0c9",
+      "courseName": "JavaScript",
+      "courseDetail": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not 'Interpreted Java'. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).",
+      "alreadyEnrolled": 787,
+      "price": "$2,741.55",
+      "picture": "./image/courseImage/img-4.png",
+      "courseDuration": 3,
+      "instructorName": "Cathleen Montoya",
+      "publishedDate": "2016-03-16T01:27:57 +04:00",
+      "instructor": [
+        {
+          "id": 4,
+          "name": "Cathleen Montoya",
+          "rating": 3.8,
+          "about": "Cathleen Montoya is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-4.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "6356ecd44b8c9c14634909c5",
+      "courseName": "Rust",
+      "courseDetail": "Rust is a high-performance, statically-typed multi-paradigm programming language. With the main focus on safety and performance. This language helps developers create robust and secure applications. Compared to C/C++, which struggles with memory errors and developing concurrent programs, Rust has already solved these problems.It was actually created to solve C/C++ problems, but it worked so well that now the Rust language is utilized by many leading organizations, including Dropbox, Firefox, Cloudflare, and many others, both startups and big companies.Hundreds of companies around the world choose Rust since it has numerous benefits. It’s fast and memory-efficient. Using no runtime or garbage collector, the language can conduct different performance services, integrate with other languages, and run on embedded devices. ",
+      "alreadyEnrolled": 912,
+      "price": "$1,565.87",
+      "picture": "./image/courseImage/img-5.jpeg",
+      "courseDuration": 6,
+      "instructorName": "Gilbert Black",
+      "publishedDate": "2022-10-12T10:08:49 +04:00",
+      "instructor": [
+        {
+          "id": 5,
+          "name": "Gilbert Black",
+          "rating": 3.8,
+          "about": "Gilbert Black is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-5.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "635771949d160cc2f826f2ff",
+      "courseName": "Data Science",
+      "courseDetail": "More generally, a data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning, as well as being human. She spends a lot of time in the process of collecting, cleaning, and munging data, because data is never clean. This process requires persistence, statistics, and software engineering skills—skills that are also necessary for understanding biases in the data, and for debugging logging output from code.Once she gets the data into shape, a crucial part is exploratory data analysis, which combines visualization and data sense. She’ll find patterns, build models, and algorithms—some with the intention of understanding product usage and the overall health of the product, and others to serve as prototypes that ultimately get baked back into the product. She may design experiments, and she is a critical part of data-driven decision making. She’ll communicate with team members, engineers, and leadership in clear language and with data visualizations so that even if her colleagues are not immersed in the data themselves, they will understand the implications.",
+      "alreadyEnrolled": 891,
+      "price": "$3,625.22",
+      "picture": "./image/courseImage/img-6.jpg",
+      "courseDuration": 3,
+      "instructorName": "Candace Hawkins",
+      "publishedDate": "2021-11-05T09:21:55 +04:00",
+      "instructor": [
+        {
+          "id": 6,
+          "name": "Candace Hawkins",
+          "rating": 4.9,
+          "about": "Candace Hawkins is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-6.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "635771943bbac6977fa49316",
+      "courseName": "Neural Network",
+      "courseDetail": "A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems.",
+      "alreadyEnrolled": 811,
+      "price": "$2,136.45",
+      "picture": "./image/courseImage/img-7.webp",
+      "courseDuration": 8,
+      "instructorName": "Harrington Simmons",
+      "publishedDate": "2020-08-09T08:01:07 +04:00",
+      "instructor": [
+        {
+          "id": 7,
+          "name": "Harrington Simmons",
+          "rating": 4.4,
+          "about": "Harrington Simmons is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-7.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "635771947fba54de41ff7c2e",
+      "courseName": "Machine Learning",
+      "courseDetail": "What is machine learning? Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior. Artificial intelligence systems are used to perform complex tasks in a way that is similar to how humans solve problems.",
+      "alreadyEnrolled": 755,
+      "price": "$1,640.43",
+      "picture": "./image/courseImage/img-8.jpg",
+      "courseDuration": 2,
+      "instructorName": "Pitts Moss",
+      "publishedDate": "2016-11-20T06:13:46 +05:00",
+      "instructor": [
+        {
+          "id": 8,
+          "name": "Pitts Moss",
+          "rating": 4.9,
+          "about": "Avinash Jain is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-8.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63577194bb27c09b4ffd9c00",
+      "courseName": "IOT",
+      "courseDetail": "The term IoT, or Internet of Things, refers to the collective network of connected devices and the technology that facilitates communication between devices and the cloud, as well as between the devices themselves. Thanks to the advent of inexpensive computer chips and high bandwidth telecommunication, we now have billions of devices  connected to the internet. This means everyday devices like toothbrushes, vacuums, cars, and machines can use sensors to collect data and respond intelligently to users.The Internet of Things integrates everyday “things” with the internet. Computer Engineers have been adding sensors and processors to everyday objects since the 90s. However, progress was initially slow because the chips were big and bulky. Low power computer chips called RFID tags were first used to track expensive equipment. As computing devices shrank in size, these chips also became smaller, faster, and smarter over time.The cost of integrating computing power into small objects has now dropped considerably.",
+      "alreadyEnrolled": 784,
+      "price": "$3,520.23",
+      "picture": "./image/courseImage/img-9.jpg",
+      "courseDuration": 7,
+      "instructorName": "Medina Weeks",
+      "publishedDate": "2017-05-07T08:13:52 +04:00",
+      "instructor": [
+        {
+          "id": 9,
+          "name": "Medina Weeks",
+          "rating": 4.3,
+          "about": "Avinash Jain is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks.",
+          "picture":"./image/instructorImage/img-9.jpg"
+        }
+      ]
+    }
+  ]
